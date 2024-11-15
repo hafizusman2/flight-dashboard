@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## Setup
+
+### 1. Clone the repository
+
+```bash
+git clone git@github.com:hafizusman2/flight-dashboard.git
+cd flight-dashboard
+
+
 First, run the development server:
 
 ```bash
